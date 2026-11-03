@@ -705,11 +705,6 @@ h3 {
   font-weight: 500;
 }
 
-.edu-place {
-  color: var(--muted);
-  font-size: 15px;
-}
-
 .langs {
   margin-top: 14px;
   list-style: none;
